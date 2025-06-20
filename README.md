@@ -1,11 +1,3 @@
-# flip-zeus
- 
- Flip an image 
- 
- (╯°□°）╯︵ ┻━┻
-
-<sub> Take 6 lines of Java and make it a library </sub>
-
 ## What does this do?
 
 `ImageFlipper` lets you flip images horizontally or vertically.
@@ -18,7 +10,7 @@ In your app's `build.gradle`
 
 ```
 dependencies {
-    compile 'com.rubiconsx.flipzeus:flipzeus:1.0.0'
+    implementation 'com.rubiconsx.flipzeus:flipzeus:1.0.0'
 }
 ```
 
