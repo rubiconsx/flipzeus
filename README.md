@@ -18,7 +18,7 @@ In your app's `build.gradle`
 
 ```
 dependencies {
-    compile 'com.rubiconsx.flipzeus:flipzeus:0.0.1'
+    compile 'com.rubiconsx.flipzeus:flipzeus:1.0.0'
 }
 ```
 
